@@ -1,4 +1,4 @@
-import zipfile
+import zipfil
 import os
 
 def create_zip(source_dir, output_filename):
